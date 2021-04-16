@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import code
 
 from sklearn.model_selection import train_test_split
 from sklearn.compose import ColumnTransformer, make_column_selector
